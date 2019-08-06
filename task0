@@ -1,1 +1,5 @@
-
+#task0-annaconda基础环境的搭建
+#jupiter notebook的使用
+phone="apple"
+a=len(phone)
+phone[-1]
